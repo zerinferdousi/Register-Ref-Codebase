@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/shared/Register_8bit_Project/mux2.xst" -ofn "/home/ise/shared/Register_8bit_Project/mux2.syr" 

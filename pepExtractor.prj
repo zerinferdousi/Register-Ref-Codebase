@@ -1,0 +1,4 @@
+work	"d_ff.vhd"
+work	"mux2.vhd"
+work	"reg_1bit.vhd"
+work	"reg_8bit.vhd"
